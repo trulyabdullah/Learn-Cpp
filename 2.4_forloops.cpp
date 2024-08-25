@@ -5,7 +5,7 @@ int main()
 {
     // can write for loop, if else, etc. inside for and while loop.
     string name = "Abdullah";
-    for (size_t i = 1; i <= 10; i++)
+    for (int i = 1; i <= 10; i++)
     {
         cout << i << ". " << name << "\n";
     }
