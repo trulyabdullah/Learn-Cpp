@@ -470,7 +470,7 @@ int main()
     {
         int n;
         cin >> n;
-        pattern22(n);
+        pattern18(n);
         cout << endl;
     }
     return 0;
